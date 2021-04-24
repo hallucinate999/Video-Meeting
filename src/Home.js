@@ -31,8 +31,8 @@ class Home extends Component {
 				</div>
 				
 				<div>
-					<h1 style={{ fontSize: "45px" }}>Video Meeting</h1>
-					<p style={{ fontWeight: "200" }}>Video conference website that lets you stay in touch with all your friends.</p>
+					<h1 style={{ fontSize: "45px" }}>Subetz</h1>
+					<p style={{ fontWeight: "200" }}>Watch Moives And Listen To Music With Your Freinds</p>
 				</div>
 
 				<div style={{
